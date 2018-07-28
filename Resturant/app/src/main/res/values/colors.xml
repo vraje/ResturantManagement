@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="LightGreen">#00ff00</color>
+    <color name="Yellow">#007</color>
+    <color name="Red">#ff4000</color>
+    <color name="Gold">#ffbf00</color>
+    <color name="Purple">#73634a</color>
+    <color name="Cream">#f6ece3</color>
+    <color name="Cream1">#fff4e1</color>
+    <color name="Maroon">#800000</color>
+    <color name="DarkGreen">#ff4000</color>
+    <color name="Red1">#ffe6e6</color>
+</resources>

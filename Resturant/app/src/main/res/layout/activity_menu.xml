@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.dell.resturant_vasu.menu">
+    <ImageView android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/pic8"
+        />
+
+    <TextView android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img"
+        android:textColor="@color/Red"
+        android:textStyle="italic"
+        android:background="@color/Red1"
+        android:padding="12dp"
+        android:text="Havana Bar And Resturant"
+        android:textSize="23sp"/>
+    <TextView android:id="@+id/tv8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/>
+    <TextView android:id="@+id/tv9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Maroon"
+        android:textColor="@color/Cream1"
+        android:fontFamily="cursive"
+        android:textSize="35sp"
+        android:padding="2dp"
+        android:layout_below="@+id/tv3"/>
+    <TextView android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv9"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimary"
+        android:text="From 9am to 10pm in week days and 11am to 2 pm"
+        android:textColor="@color/Cream1"
+        android:textSize="20sp"
+        android:paddingBottom="20dp"/>
+</RelativeLayout>
