@@ -1,0 +1,10 @@
+Name: ANSHU  PRADHAN
+Sex: Male
+Address: 12345 ABCD XYZ
+Pincode: 768005INDIA
+Email: abc@gmail.com
+Contact: 9437965200
+DateOfBirth:   
+Occupation: abcd
+Designation: xyz
+Basic Salary: 25000
